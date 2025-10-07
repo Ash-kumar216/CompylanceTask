@@ -24,13 +24,17 @@ React renders the results, including the key metrics and Recharts visualizations
 
 # Technologies, Frameworks, and Database 
 Category	Technology/Framework	Rationale
-Frontend	React 18	Modern, component-based library for building fast, interactive user interfaces.
+Frontend	
+React Modern, component-based library for building fast, interactive user interfaces.
 Tailwind CSS	Utility-first CSS framework for rapid and responsive styling.
-Backend	Node.js	High-performance, non-blocking runtime environment for the server.
+Backend
+Node.js	High-performance, non-blocking runtime environment for the server.
 Express.js	Minimalist, flexible Node.js web application framework for building APIs.
 mysql2	Efficient, promise-based driver for connecting and querying MySQL from Node.js.
-Database	MySQL 8.0+	Mature, robust relational database used to ensure data integrity and persistence of scenarios.
-Tools	dotenv	Environment variable management for securely handling configuration (e.g., database credentials).
+Database	
+MySQL 	Mature, robust relational database used to ensure data integrity and persistence of scenarios.
+Tools	
+dotenv	Environment variable management for securely handling configuration (e.g., database credentials).
 Git / GitHub	Version control and collaborative development.
 
 

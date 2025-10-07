@@ -61,6 +61,6 @@ Email Gating: Implements an email-gated report generation feature. To receive th
 User-Friendly Interface: A clear form layout built with React and Tailwind CSS ensures an intuitive and responsive experience across devices.
 
 API Endpoints: A well-structured backend API provides dedicated endpoints for all core functions: /simulate (calculate), /scenarios (save/list), and /report/generate.
-6. Responsive UI for all devices
+Responsive UI for all devices
 
-7. Error handling and data validation throughout the application
+Error handling and data validation throughout the application
